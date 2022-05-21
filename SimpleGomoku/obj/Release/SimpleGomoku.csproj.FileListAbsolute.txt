@@ -1,0 +1,11 @@
+F:\CSharpLearing\SimpleGomoku\bin\Release\SimpleGomoku.exe.config
+F:\CSharpLearing\SimpleGomoku\bin\Release\SimpleGomoku.exe
+F:\CSharpLearing\SimpleGomoku\bin\Release\SimpleGomoku.pdb
+F:\CSharpLearing\SimpleGomoku\obj\Release\SimpleGomoku.csproj.AssemblyReference.cache
+F:\CSharpLearing\SimpleGomoku\obj\Release\SimpleGomoku.csproj.SuggestedBindingRedirects.cache
+F:\CSharpLearing\SimpleGomoku\obj\Release\SimpleGomoku.Form1.resources
+F:\CSharpLearing\SimpleGomoku\obj\Release\SimpleGomoku.Properties.Resources.resources
+F:\CSharpLearing\SimpleGomoku\obj\Release\SimpleGomoku.csproj.GenerateResource.cache
+F:\CSharpLearing\SimpleGomoku\obj\Release\SimpleGomoku.csproj.CoreCompileInputs.cache
+F:\CSharpLearing\SimpleGomoku\obj\Release\SimpleGomoku.exe
+F:\CSharpLearing\SimpleGomoku\obj\Release\SimpleGomoku.pdb
